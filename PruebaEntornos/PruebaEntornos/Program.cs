@@ -12,6 +12,14 @@ namespace PruebaEntornos
         {
             Console.WriteLine("Hola mundo");
 
+
+            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola mundo");
+            Console.WriteLine("Hola mundo");
+
             Console.ReadKey();
         }
     }
